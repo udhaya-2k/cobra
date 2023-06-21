@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.quali.cobra.HelloControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.711 sec - in com.quali.cobra.HelloControllerTest
